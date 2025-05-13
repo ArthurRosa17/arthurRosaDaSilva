@@ -5,7 +5,7 @@ Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando li
        
 </a> 
     <a href="https://github.com/arthurRosaDaSilva?tab=repositories&sort=stargazers">
-        <img 
+<img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/arthurRosaDaSilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
@@ -20,7 +20,7 @@ Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando li
 
 ---
 
-  <img
+<img
          align="left" 
          alt="Python" 
          title="Python"
