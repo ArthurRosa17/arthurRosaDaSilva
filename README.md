@@ -24,6 +24,9 @@ src="https://custom-icon-badges.demolab.com/github/stars/arthurRosaDaSilva?color
 
 ---
 
+
+
+
 <img
          align="left" 
          alt="Python" 
