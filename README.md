@@ -1,7 +1,7 @@
 # Arthur Rosa
 **'Student Dev'**
 
-Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando linguagem em PYTHON. Aualmente estou cursando o último ano do ensino médio  
+Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando linguagem em PYTHON. Aualmente estou cursando o último ano do ensino médio, gosto bastante de tecnologias e busco aprender mais sobre elas todos os dias e tentando aprender e evoluir cada dia como pessoa
        
 </a> 
     <a href="https://github.com/arthurRosaDaSilva?tab=repositories&sort=stargazers">
