@@ -2,7 +2,9 @@
 **'Student Dev'**
 
 Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando linguagem em PYTHON. Aualmente estou cursando o último ano do ensino médio, gosto bastante de tecnologias e busco aprender mais sobre elas todos os dias e tentando aprender e evoluir cada dia como pessoa
-  <a href="https://instagram.com/3453art_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>       
+
+<a href="https://instagram.com/3453art_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>       
+
 </a> 
     <a href="https://github.com/arthurRosaDaSilva?tab=repositories&sort=stargazers">
 <img 
