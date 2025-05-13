@@ -13,7 +13,6 @@ src="https://custom-icon-badges.demolab.com/github/stars/arthurRosaDaSilva?color
 />
     </a>
     <a href="https://github.com/arthurRosaDaSilva?tab=followers">
-
 <img 
   alt="Seguidores" 
   title="Me siga no GitHub" 
