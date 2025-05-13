@@ -21,6 +21,9 @@ src="https://custom-icon-badges.demolab.com/github/stars/arthurRosaDaSilva?color
   title="Me siga no GitHub" 
   src="https://custom-icon-badges.demolab.com/github/followers/arthurRosaDaSilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 />
+<a href = "mailto:artr.silva324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+       
 
 ---
 
