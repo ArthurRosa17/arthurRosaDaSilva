@@ -51,7 +51,8 @@ src="https://custom-icon-badges.demolab.com/github/stars/arthurRosaDaSilva?color
   />
 
 </p>
----
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurRosaDaSilva/arthurRosaDaSilva/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurRosaDaSilva/arthurRosaDaSilva/output/pacman-contribution-graph.svg">
