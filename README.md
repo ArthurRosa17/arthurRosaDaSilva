@@ -20,7 +20,7 @@ Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando li
 />
 
 ---
-*** Linguagens e Tecnologias
+***      Linguagens e Tecnologias
 
 <img
          align="left" 
