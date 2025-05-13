@@ -20,5 +20,10 @@ Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando li
         />
 ---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img
+         align="left" 
+         alt="Python" 
+         title="Python"
+         width="30px" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
