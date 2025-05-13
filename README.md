@@ -17,6 +17,7 @@ Me chamo Arthur Rosa, sou natural de São Paulo tenho 17 Anos. estou cursando li
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/arthurRosaDaSilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+
 ---
 
   <img
