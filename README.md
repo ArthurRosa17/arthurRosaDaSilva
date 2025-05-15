@@ -20,7 +20,7 @@ src="https://custom-icon-badges.demolab.com/github/stars/arthurRosaDaSilva?color
   src="https://custom-icon-badges.demolab.com/github/followers/arthurRosaDaSilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 />
 
-<a href = "mailto:artr.silva324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:arthurrosasilva324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 <img
@@ -50,7 +50,7 @@ src="https://github-readme-stats.vercel.app/api?username=arthurRosaDaSilva&show_
 
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurRosaDaSilva/arthurRosaDaSilva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurRosaDaSilva/arthurRosaDaSilva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurRosaDaSilva/arthurRosaDaSilva/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurRosaDaSilva?/arthurRosaDaSilva?/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurRosaDaSilva?/arthurRosaDaSilva?/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurRosaDaSilva?/arthurRosaDaSilva?/output/pacman-contribution-graph.svg">
 </picture>
